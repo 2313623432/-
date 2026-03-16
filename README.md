@@ -16,12 +16,12 @@
 🔍 输入食材，一键触发
 用户在前端输入食材，点击「查看菜谱」，整个 LangChain 流水线自动启动：
 
-https://github.com/2313623432/kichen-assistat/blob/main/ea8118b792695ff0546b87fe04fc3932.png?raw=true
+
 
 
 🎬 自动匹配 B 站热门视频
 LangChain 调用 B 站搜索工具，筛选出播放量最高的做菜视频，返回结构化信息：
-
+![logo](https://github.com/2313623432/kichen-assistat/blob/main/ea8118b792695ff0546b87fe04fc3932.png)
 
 🍳 AI 生成详细菜谱
 DeepSeek AI 基于视频信息，输出超详细、段落式的做菜步骤，排版优雅，可读性拉满：
